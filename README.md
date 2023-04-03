@@ -1,6 +1,6 @@
 # Merrouki-yacine
 <h1 align="center">Hi 👋, I'm Yacine </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+H
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacinemk&label=Profile%20views&color=0e75b6&style=flat" alt="yacinemk" /> </p>
 
