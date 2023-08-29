@@ -41,9 +41,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60"
-  style="filter: invert(100%);"/>
-</a>
+  <svg width="60" height="60" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg"> <a/>
 
 
 
