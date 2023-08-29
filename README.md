@@ -1,7 +1,7 @@
 # Merrouki-yacine
 
 <h1 align="center">Hi 👋, I'm Yacine </h1>
-<h3>call me soyed</h3>
+<h3>A passionate self taught full-stack web developer from Algeria/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacinemk&label=Profile%20views&color=0e75b6&style=flat" alt="yacinemk" /> </p>
 
@@ -41,8 +41,9 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="60" height="60" style="fill: white;"/>
 </a>
+
 
   <br>
   
@@ -54,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark-white.svg" alt="Express.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark-white.svg" alt="Express.js" width="60" height="60" style="fill: white;"/>
 </a>
 
    <br>
