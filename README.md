@@ -1,7 +1,7 @@
 # Merrouki-yacine
 
 <h1 align="center">Hi 👋, I'm Yacine </h1>
-<h3>A passionate self taught full-stack web developer from Algeria/h3>
+###A passionate self taught full-stack web developer from Algeria
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yacinemk&label=Profile%20views&color=0e75b6&style=flat" alt="yacinemk" /> </p>
 
