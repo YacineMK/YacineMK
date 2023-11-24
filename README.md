@@ -13,7 +13,6 @@
     <a href="https://www.linkedin.com/in/yacine-merrouki-ab9889253/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yacine Merrouki" height="30" width="40" />
     </a>
-
     <a href="https://discord.gg/Saul_14#5202" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Saul_14#5202" height="30" width="40" />
     </a>
@@ -21,8 +20,6 @@
 
 <div align="center">
     <h1>##My GitHub Status 📊</h1>
-    <br/>
-     
 </div>
 
 <h2 align="center">Languages and Tools:</h2>
