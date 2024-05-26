@@ -3,11 +3,8 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Yacine </h1>
-
-<br><br>
-
 <h2 align="center">⚡ A full stack web Developer and junior ctf player</h2>
-<h2 align="center">Connect with me:</h2>
+
 
 ## Programming Languages And Technologies 
 ![React](https://img.shields.io/badge/React-0000FF?style=for-the-badge&logo=react&logoColor=white)
