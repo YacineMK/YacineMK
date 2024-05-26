@@ -10,7 +10,10 @@
 <h2 align="center">Connect with me:</h2>
 
 ## Programming Languages And Technologies 
-![React](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-0000FF?style=for-the-badge&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next&logoColor=white)
+![tailwind](https://img.shields.io/badge/Svelte-0000FF?style=for-the-badge&logo=tailwind&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -19,6 +22,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo30004&show_icons=true&theme=ayu-mirage)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo30004&show_icons=true&theme=dark)
 
 
