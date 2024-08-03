@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Yacine </h1>
-<h2 align="center">⚡ A full stack web Developer and junior ctf player</h2>
+<h2 align="center">⚡ A full stack web Developer</h2>
 
 
 ## Programming Languages And Technologies 
@@ -18,6 +18,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdo30004&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YacineMK&show_icons=true&theme=dark)
 
 
